@@ -2,6 +2,8 @@
 
 This project involves the design and implementation of a relational database named `blog_db`, created to manage a blog platform. It includes the architecture for users, posts, and a "likes" interaction system.
 
+<img width="1470" height="390" alt="image" src="https://github.com/user-attachments/assets/3a91a397-2c43-49b4-84c1-2bbff46be09a" />
+
 ---
 
 ## 🌐 Deployment
@@ -14,6 +16,8 @@ This project involves the design and implementation of a relational database nam
 ## 🏗️ Data Architecture
 
 The design is based on a relational model that ensures referential integrity through the strategic use of Primary Keys (`PK`) and Foreign Keys (`FK`).
+
+<img width="819" height="611" alt="image" src="https://github.com/user-attachments/assets/2645d001-5987-4516-8ee9-239a3bd28756" />
 
 ---
 
